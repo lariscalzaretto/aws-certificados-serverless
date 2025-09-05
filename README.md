@@ -13,6 +13,7 @@ O sistema permite que o usuário envie uma lista de alunos em **JSON** ou **CSV*
 ## 🏗 **Arquitetura da Solução**
 <img width="2708" height="2500" alt="image" src="https://github.com/user-attachments/assets/429aef06-bd04-4459-b61c-fce724af83fe" />
 
+https://github.com/lariscalzaretto/aws-certificados-serverless/blob/main/ArquiteturaDeProjetoAWS.png
 
 > **Fluxo geral:**
 1. **Cliente / Operadora** → Envia um arquivo JSON/CSV com os dados dos alunos.
